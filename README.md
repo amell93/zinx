@@ -9,6 +9,7 @@ Zinx 是一个基于Golang的轻量级并发服务器框架
 -   刘丹冰([@aceld](https://github.com/aceld))
 -   张超([@zhngcho](https://github.com/zhngcho))
 -   高智辉Roger([@adsian](https://github.com/adsian))
+-   胡贵建([@huguijian](https://github.com/huguijian))
 
 
 ---
@@ -21,6 +22,11 @@ Zinx 是一个基于Golang的轻量级并发服务器框架
 [zinx(Lua版本)](https://github.com/huqitt/zinx-lua)
 #### 开发者
 -  胡琪([@huqitt](https://github.com/huqitt))
+
+---
+[zinx(websocket版本)](https://github.com/aceld/zinx/tree/wsserver)
+#### 开发者
+-  胡贵建([@huguijian](https://github.com/huguijian))
 
 ---
 ## zinx源码地址
@@ -47,10 +53,14 @@ Git: https://gitee.com/Aceld/zinx
 ## Zinx详细教程及文档
 
 ### PC端文档
-[《Zinx框架教程-基于Golang的轻量级并发服务器》](https://www.jianshu.com/p/23d07c0a28e5)
+[简书-《Zinx框架教程-基于Golang的轻量级并发服务器》](https://www.jianshu.com/p/23d07c0a28e5)
+
+[看云-《Zinx框架教程-基于Golang的轻量级并发服务器》](https://www.kancloud.cn/aceld/zinx)
 
 ### 移动端文档
 ![gongzhonghao](https://s1.ax1x.com/2020/07/07/UFyUdx.th.jpg)
+
+### 看云归档
 
     
 ## 一、写在前面
@@ -309,10 +319,12 @@ func (c *Connection) RemoveProperty(key string)
 
 `mail`:
 [danbing.at@gmail.com](mailto:danbing.at@gmail.com)
+
 `github`:
 [https://github.com/aceld](https://github.com/aceld)
-`原创书籍gitbook`:
-[http://legacy.gitbook.com/@aceld](http://legacy.gitbook.com/@aceld)
+
+`原创书籍`:
+[https://www.kancloud.cn/@aceld](https://www.kancloud.cn/@aceld)
 
 ### Zinx技术讨论社区
 
